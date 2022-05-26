@@ -1,0 +1,56 @@
+@media screen and (min-width: 992px) {
+
+
+	#hamburguesa {
+	  display: none;
+	}
+
+	
+	#menu {
+      margin: 1em 1em;
+      padding: 0em 1em;
+      overflow: hidden;
+      background-color: #333;
+      opacity: 0.6;
+      display: block;
+	}
+	 
+	#barra {
+	  list-style-type: none;
+      margin: 0 auto;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      opacity: 0.6;
+      display: inline-block;
+      width: 100vw;
+	  transition: height .5s ease;
+	
+	}
+
+	#barra li {
+		list-style: none;
+	
+	}
+
+	#barra li a {
+	  float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      background-color: #333;
+	
+	}
+    
+	nav li  a:hover {
+		background-color: #111;
+		  
+    }
+
+
+
+
+
+}

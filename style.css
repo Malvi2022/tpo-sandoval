@@ -1,0 +1,146 @@
+* {
+font-family:  helvetica, sans-serif;	
+
+}
+
+/* propiedades que entran por default */
+ 
+body{
+	position: relative;
+	background-image:url(/images/fondo\ marron.jpeg); 
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+main > h1 {
+	margin-top: 1em;
+	 font-family:  helvetica, sans-serif;
+	 font-size: 3em;
+	 text-align: center;
+	 color: #000000;
+	 
+}
+
+main > h2 {
+		
+	font-family:  helvetica, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	color: #000000; 
+	  
+}
+
+.presentación {
+	font-family:  helvetica, sans-serif;
+	font-size: 1em;
+	color: black;
+	text-align: justify;
+	border: 2px solid #000000;
+	border-radius: 0.5rem;
+	background-color: rgba(155, 116, 80, 0.856);
+	letter-spacing: 1px;
+	margin-left: 2em;
+	margin-right: 2em;
+	padding: 1em;
+   
+} 
+
+h3  {
+	
+	font-family:  helvetica, sans-serif;
+	font-size: 2em;
+	text-align: unset;
+	color: #000000; 
+	margin: 0 0 2 5px;
+	padding: 20px;
+	
+	}
+
+	
+	
+.historia  {
+	
+	line-height: 140%;
+	font-family:  helvetica,'Proxima Nova Soft', 'Helvetica Neue', sans-serif;
+	font-size: 1em;
+	color: #000000; 
+	margin-bottom:20px;
+	margin-top: 20px;
+	margin-left: 80px;
+	margin-right: 80px;
+	padding: 20px;
+	border: 2px solid #000000;
+	text-align: justify;
+	margin-bottom: 3em;
+}
+
+	
+	
+.foto1 {
+	float: right;
+	border: 2px;
+	margin: 20px;
+}
+
+.foto2 {
+	float: right;
+	margin: 20px;
+	margin-left: 40px; 
+	border: 10px;
+	border-color: #FFFFFF;
+	opacity:1.0
+}
+
+.plazaonce{
+	float: left;
+	margin: 10px;
+	border: 10px;
+	border-color: #FFFFFF;
+	opacity:1.0
+	
+}
+
+#actualidad {
+	margin-bottom:50px;
+	margin-top: 50px;
+	margin-left: 80px;
+	margin-right: 80px;
+	padding: 20px;
+	margin-bottom: 3em;
+
+}
+
+.contenido {
+	line-height: 140%;
+	font-family:  helvetica,'Proxima Nova Soft', 'Helvetica Neue', sans-serif;
+	font-size: 14 px;
+	font-weight: 400;
+	color: #000000; 
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 10px;
+	border: 2px solid #000000;
+	margin-bottom: 30px;
+	text-align: justify;
+
+}
+
+footer {
+    font-family:  helvetica,'Proxima Nova Soft', 'Helvetica Neue', sans-serif;
+    font-size: 1em;
+    color: #FFFFFF;
+    background: #333; 
+	padding: 1em;
+    opacity: 0.6;
+    float: bottom;
+    text-align: center;
+    bottom: 0!important;
+}
+
+.iconos a {
+	margin-left: 1em;
+	margin-right: 1px;
+	
+}
+
+
